@@ -8,3 +8,14 @@ Preiskalkulation nach Dauer: Berechnet den Fahrpreis basierend auf der Nutzungsd
 Preiskalkulation nach Strecke: Berechnet den Fahrpreis basierend auf der zurückgelegten Strecke in Kilometern.
 Anpassbare Preise: Basispreis, Preis pro Minute und Preis pro Kilometer sind konfigurierbar.
 Anpassbare Texte für verschiedene Sprachen.
+
+Infos zu Gruppe
+Gruppe C6
+
+Teilnehmer 1: Luca Kluth
+
+Teilnehmer 2: Lucas Tippach
+
+Teilnehmer 3: Ruben Hesse
+
+Teilnehmer 4: Vansh Singh Mehra
