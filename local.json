@@ -1,0 +1,15 @@
+{
+    "welcome_message": "Willkommen bei TechVision GmbH\nHier kannst du deine Fahrt ausrechnen",
+    "calculate_price_by_duration_title": "Preis nach Nutzungsdauer berechnen",
+    "calculate_price_by_distance_title": "Preis nach Nutzungsstrecke berechnen",
+    "usage_duration_label": "Nutzungsdauer (Minuten):",
+    "usage_distance_label": "Nutzungsstrecke (Kilometer):",
+    "calculate_button_text": "Berechnen",
+    "ok_button_text": "OK",
+    "price_by_duration_message": "Die Fahrtzeit beträgt {duration} Minuten. Der Preis beträgt {price}.",
+    "price_by_distance_message": "Die Fahrstrecke beträgt {distance} Kilometer. Der Preis beträgt {price}.",
+    "price_calculation_title": "Preiskalkulation",
+    "error_title": "Fehler",
+    "invalid_duration_message": "Ungültige Eingabe für die Dauer. Bitte eine gültige Zahl eingeben.",
+    "invalid_distance_message": "Ungültige Eingabe für die Strecke. Bitte eine gültige Zahl eingeben."
+}

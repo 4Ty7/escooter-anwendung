@@ -1,0 +1,7 @@
+{
+    "base_rate": 1.0,
+    "per_minute_rate": 0.15,
+    "per_km_rate": 0.50,
+    "icon_path": "icon.png",
+    "logo_path": "logo.png"
+}
