@@ -19,3 +19,5 @@ Teilnehmer 2: Lucas Tippach
 Teilnehmer 3: Ruben Hesse
 
 Teilnehmer 4: Vansh Singh Mehra
+
+![image](https://github.com/4Ty7/escooter-anwendung/assets/175310806/1b2a6987-5957-4206-9563-46630e943217)
