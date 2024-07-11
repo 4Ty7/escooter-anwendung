@@ -1,7 +1,7 @@
 {
     "welcome_message": "Willkommen bei TechVision GmbH\nHier kannst du deine Fahrt ausrechnen",
-    "calculate_price_by_duration_title": "Preis nach Nutzungsdauer berechnen",
-    "calculate_price_by_distance_title": "Preis nach Nutzungsstrecke berechnen",
+    "calculate_price_by_duration_title": "Preis nach Minuten berechnen",
+    "calculate_price_by_distance_title": "Preis nach Kilometer berechnen",
     "usage_duration_label": "Nutzungsdauer (Minuten):",
     "usage_distance_label": "Nutzungsstrecke (Kilometer):",
     "calculate_button_text": "Berechnen",
