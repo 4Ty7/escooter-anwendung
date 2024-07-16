@@ -1,15 +1,15 @@
 {
-    "welcome_message": "Willkommen bei TechVision GmbH\nHier kannst du deine Fahrt ausrechnen",
-    "calculate_price_by_duration_title": "Preis nach Minuten berechnen",
-    "calculate_price_by_distance_title": "Preis nach Kilometer berechnen",
-    "usage_duration_label": "Nutzungsdauer (Minuten):",
-    "usage_distance_label": "Nutzungsstrecke (Kilometer):",
-    "calculate_button_text": "Berechnen",
-    "ok_button_text": "OK",
-    "price_by_duration_message": "Die Fahrtzeit beträgt {duration} Minuten. Der Preis beträgt {price}.",
-    "price_by_distance_message": "Die Fahrstrecke beträgt {distance} Kilometer. Der Preis beträgt {price}.",
-    "price_calculation_title": "Preiskalkulation",
-    "error_title": "Fehler",
-    "invalid_duration_message": "Ungültige Eingabe für die Dauer. Bitte eine gültige Zahl eingeben.",
-    "invalid_distance_message": "Ungültige Eingabe für die Strecke. Bitte eine gültige Zahl eingeben."
+    "Willkommen": "Willkommen bei TechVision GmbH\n Hier kannst du deine Fahrt ausrechnen",
+    "Preis_Minute": "Preis nach Minuten berechnen",
+    "Preis_Kilometer": "Preis nach Kilometer berechnen",
+    "Dauer_Minuten": "Nutzungsdauer (Minuten):",
+    "Dauer_Kilometer": "Nutzungsstrecke (Kilometer):",
+    "Berechnung": "Berechnen",
+    "ok_button": "OK",
+    "Preis_nach_Minute_Satz": "Die Fahrtzeit beträgt {duration} Minuten. Der Preis beträgt {price}.",
+    "Preis_bei_Kilometer_Satz": "Die Fahrstrecke beträgt {distance} Kilometer. Der Preis beträgt {price}.",
+    "Kalkulation": "Preiskalkulation",
+    "Fehlernachricht": "Fehler",
+    "Ungültiger_Eintrag_Dauer": "Ungültige Eingabe für die Dauer. Bitte eine gültige Zahl eingeben.",
+    "Ungültiger_Eintrag_Kilometer": "Ungültige Eingabe für die Strecke. Bitte eine gültige Zahl eingeben."
 }
